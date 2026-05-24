@@ -1,3 +1,6 @@
+## Most Influential Words
+
+![Influential Words](influential_words.png)
 # Sentiment Analysis on Amazon Food Reviews
 
 ## Overview
