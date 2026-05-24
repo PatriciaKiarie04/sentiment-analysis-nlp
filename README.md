@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 ## Most Influential Words
 
 ![Influential Words](influential_words.png)
